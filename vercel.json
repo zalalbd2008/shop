@@ -22,7 +22,7 @@
   "build": {
     "env": {
       "FRAMEWORK_PROVIDER": "rest",
-      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://localhost",
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://mock.redq.io/api",
       "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "https://localhost",
       "NEXT_PUBLIC_SITE_URL": "https://localhost",
       "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
